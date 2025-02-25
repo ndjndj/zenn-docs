@@ -12,3 +12,4 @@ price: 0
 toc_depth: 2
 chapters:
   - "0d8ad4"
+allow_override: true
