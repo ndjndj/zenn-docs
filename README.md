@@ -1,5 +1,7 @@
 # zenn-docs
 
+この README は READ for ME である。
+
 ## リンク
 
 - GitHub リポジトリとの連携方法について
@@ -30,3 +32,15 @@
   ```bash
     npx zenn preview
   ```
+
+## アイコンのルール
+  - 環境構築 🏞️
+  - やってみた系 🛫
+  - データベース系 💽
+  - AWS系 🅰️ 
+  - Docker 🐶
+  - Web系 🕸️
+  - Ruby 🐰
+  - JavaScript, TypeScript 🎃 
+  - Python 📦 
+  - Dart, Flutter 🍥
