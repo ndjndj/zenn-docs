@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "意思決定を記録する ADR(Architecture Decision Record) を導入した"
 emoji: "🏞️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: 
